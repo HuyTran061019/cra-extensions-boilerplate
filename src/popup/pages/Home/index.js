@@ -20,7 +20,7 @@ function Home() {
     <div>
           <h1>This is my homepage</h1>
           <h2> Please show the data: {dataList[0]?.API}</h2>
-          <Link to='/note'> Try me</Link>
+          <Link to='/note'> Try me 12345</Link>
     </div>
 
     
